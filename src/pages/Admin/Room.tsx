@@ -102,7 +102,7 @@ function CreateRoomOverlay() {
                             control={form.control}
                             render={({ field }) => (
                                 <FormItem>
-                                    <FormLabel>Nama unit</FormLabel>
+                                    <FormLabel>Nama ruangan</FormLabel>
                                     <FormControl>
                                         <Input
                                             type="text"
