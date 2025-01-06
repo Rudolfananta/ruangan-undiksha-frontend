@@ -93,7 +93,7 @@ function CreateRoomOverlay() {
             </DialogTrigger>
             <DialogContent>
                 <DialogHeader>
-                    <DialogTitle>Tambahkan Unit</DialogTitle>
+                    <DialogTitle>Tambahkan Ruangan</DialogTitle>
                 </DialogHeader>
                 <Form {...form}>
                     <form onSubmit={form.handleSubmit(handleStore)} className="space-y-4">
